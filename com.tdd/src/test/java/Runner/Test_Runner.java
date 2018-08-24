@@ -11,8 +11,8 @@ WebDriver driver;
 @Test
 public void test() 
 {
-	//System.out.println(driver.getTitle());
-	System.out.println("hmmmmmmm");
+	System.out.println(driver.getTitle());
+	//System.out.println("hmmmmmmm");
 	}
 @BeforeTest
 public void beforeTest()
